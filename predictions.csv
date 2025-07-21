@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 Image Name,Predicted Class,Confidence
 00cb6555d108_png.rf.29cca170969c6e9918ef9b9209abef8e.jpg,No_DR,0.515433669090271
 0ae2dd2e09ea_png.rf.a4faf61bd46dc2930c51b3db7dba12cd.jpg,No_DR,0.5178877115249634
 0b2ea8f268cf_png.rf.67217aed13eea5ea2bc2d7dda32aecda.jpg,No_DR,0.5050292611122131
 sample.jpg,No_DR,0.5123819708824158
+=======
+Image Name,Predicted Class,Confidence
+00cb6555d108_png.rf.29cca170969c6e9918ef9b9209abef8e.jpg,No_DR,0.515433669090271
+0ae2dd2e09ea_png.rf.a4faf61bd46dc2930c51b3db7dba12cd.jpg,No_DR,0.5178877115249634
+0b2ea8f268cf_png.rf.67217aed13eea5ea2bc2d7dda32aecda.jpg,No_DR,0.5050292611122131
+sample.jpg,No_DR,0.5123819708824158
+>>>>>>> f7fbf56a61fd41541b8fa58adeee53806864fd72
